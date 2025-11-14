@@ -145,3 +145,6 @@ Feel free to add your own creative touches for bonus points:
 - Additional character classes beyond the three required
 - More weapon types with different properties
 - Enhanced special abilities with unique effects
+
+
+I did not add any super creative features besides a level factor. However I did not add a level up feature. Everything else was basically by the directions given. You execute this code by running it and inputing the types of character you want to have in the game. I used AI to debug my code when I made certain errors to save time.
